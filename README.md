@@ -26,18 +26,12 @@ The original and revised ranking of the Top Five schools has been reproduced bel
 ### Grade analysis
 The overall average of math and reading scores were completed by grade. The other grades were unaffected by the removal of 9th grade scores. The average scores for all ninth graders had minor changes, shown below. The reading average is affected in the final number but the unrounded numbers show that the change in the number was due to rounding and not significant.
 
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
-
-
-* Math and reading scores by grade
-    * 
-    *math average (previous): 80 (80.35333333, unrounded)
-    *math average (revised): 80 (80.12030214, unrounded)
-    *reading average (previous): 83 (82.5133174, unrounded)
-    *reading average (revised): 82 (82.42649364, unrounded)
+* Math scores by grade
+    * Previous average: 80 (80.35333333, unrounded)
+    * Revised average: 80 (80.12030214, unrounded)
+* Reading scores by grade
+    * Previous average: 83 (82.5133174, unrounded)
+    * Revised average: 82 (82.42649364, unrounded)
 
 ### Other district analysis 
 The additional comparisons were run again, comparing the school district in terms of school spending, school size, and school type (public or charter). The percentages below were unaffected by the minor adjustment to the Thomas High School results. 
