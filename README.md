@@ -25,6 +25,13 @@ The original and revised ranking of the Top Five schools has been reproduced bel
 
 ### Grade analysis
 The overall average of math and reading scores were completed by grade. The other grades were unaffected by the removal of 9th grade scores. The average scores for all ninth graders had minor changes, shown below. The reading average is affected in the final number but the unrounded numbers show that the change in the number was due to rounding and not significant.
+
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
+
+
 * Math and reading scores by grade
     * 
     *math average (previous): 80 (80.35333333, unrounded)
