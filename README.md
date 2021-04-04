@@ -31,8 +31,6 @@ The overall average of math and reading scores were completed by grade. The othe
         * math average (revised): 80 (80.12030214, unrounded)
         * reading average (previous): 83 (82.5133174, unrounded)
         * reading average (revised): 82 (82.42649364, unrounded)
-=======
->>>>>>> 39716df8ff22b52fd504811ad37fbf4626a80876
 
 * Math scores by grade
     * Previous average: 80 (80.35333333, unrounded)
@@ -64,8 +62,3 @@ The changes to the Thomas High School averages and percentages were minimal so t
 ### Opinion
 This analysis cannot prove whether the grades in question were changed. However, it is my opinion that if grades were changed, the motive does not appear to have been to change the school’s overall ranking. I found that Thomas High School was in the top five schools in the district both before and after the questioned scores were removed.
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> d6e49bfa0989f766715562b5bdfef8e2aa30027f
