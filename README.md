@@ -57,6 +57,14 @@ The additional comparisons were run again, comparing the school district in term
     * Charter: 90
     * District: 54
 
+## Summary
+### Findings
+The changes to the Thomas High School averages and percentages were minimal so the overall district summary was not significantly affected. The 9th grade scores were replaced with null values and the numbers were adjusted so that averages reflect the remaining scores. Minor differences in numbers were shown to be not significant and the overall school ranking stayed the same. The overall analysis done at the district level was entirely unaffected, as the percentages stayed the same once the minor differences at Thomas were aggregated into different groups (size, spending level, and school type). 
+
+### Opinion
+This analysis cannot prove whether the grades in question were changed. However, it is my opinion that if grades were changed, the motive does not appear to have been to change the school’s overall ranking. I found that Thomas High School was in the top five schools in the district both before and after the questioned scores were removed.
+
+
 <<<<<<< HEAD
 =======
 
