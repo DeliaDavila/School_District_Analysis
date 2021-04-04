@@ -37,18 +37,16 @@ The overall average of math and reading scores were completed by grade. The othe
 The additional comparisons were run again, comparing the school district in terms of school spending, school size, and school type (public or charter). The percentages below were unaffected by the minor adjustment to the Thomas High School results. 
 
 * School spending (Range Per Student, Overall Passing Percentage)
-    *<$584: 90
-    *$585-629: 81
-    *$630-644: 63
-    *$645-675: 54
-
+    * <$584: 90
+    * $585-629: 81
+    * $630-644: 63
+    * $645-675: 54
 * School Size (Number of Students, Overall Passing Percentage)
-    *Small (<1000): 90
-    *Medium (1000-2000): 91
-    *Large (2000-5000): 58
-
+    * Small (<1000): 90
+    * Medium (1000-2000): 91
+    * Large (2000-5000): 58
 * School Type (Type, Overall Passing Percentage)
-    *Charter: 90
-    *District: 54
+    * Charter: 90
+    * District: 54
 
 
